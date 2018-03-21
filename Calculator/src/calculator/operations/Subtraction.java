@@ -14,7 +14,7 @@ public class Subtraction extends Operation {
 
 	@Override
 	public double calc() {
-		return a - b;
+		return a - b; 
 	}
 
 }
